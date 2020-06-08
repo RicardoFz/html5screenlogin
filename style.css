@@ -1,7 +1,7 @@
 body{
   font-family: sans-serif;
-  background-color: #121111;
-  background-image: linear-gradient(149deg, #121111 0%, #1f40b5 50%, #312c2c 100%);
+  background: rgb(27,66,102);
+  background: linear-gradient(90deg, rgba(27,66,102,1) 0%, rgba(8,4,43,1) 50%, rgba(27,66,102,1) 100%);
 }
 .box{
   width: 300px;
