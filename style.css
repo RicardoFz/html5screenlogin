@@ -5,6 +5,7 @@ body{
 }
 .box{
   width: 300px;
+  border-radius: 25px;
   padding: 40px;
   position: absolute;
   top: 50%;
